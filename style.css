@@ -1,0 +1,47 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    font-size: 100%;
+    background-color:#324028;
+    color: #D9D1C7;
+    text-align: left;
+font-size: 150%;
+margin-left: 10%; margin-right: 10%; margin-bottom: 5%; margin-top: 5%;
+padding-left: 10%;padding-right: 10%;
+border-radius: 10px;
+ }
+div1{
+color: #A69958;
+text-align: center;
+font-size: 150%;
+font-family: 'Libre Baskerville', serif;
+}
+h5{}
+img{height:400px;}
+a:link {
+  color: white;
+}
+
+/* visited link */
+a:visited {
+  color: #99ff66;
+}
+
+/* mouse over link */
+a:hover {
+  color: yellow;
+}
+
+/* selected link */
+a:active {
+  color: cian;
+}
+h5{font-size: 100%}
+.column {
+  float: left;
+  width: 50%;
+}
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
